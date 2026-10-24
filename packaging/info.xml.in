@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <progid>\SFTPAddIn</progid>
+    <name>Внешняя компонента для работы по протоколу SFTP</name>
+    <version>@PROJECT_VERSION@</version>
+</info>
